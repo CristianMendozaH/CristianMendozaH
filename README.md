@@ -9,6 +9,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianMendozaH&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/> 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMendozaH&layout=compact&theme=chartreuse-dark"/> 
+</p>
 </a>
 </div>
 
