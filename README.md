@@ -18,6 +18,11 @@ Code-Savvy Student with a Desire to Learn and Grow
 - 🌐 You can see my personal website through [here](https://proyecto0cd.netlify.app/)
 
 
+</p>
+<h2 align="center">Skills</h2>
+<p align="center">
+<br>
+
  
 <p style="display: inline-block;" align="center">
   <kbd>
