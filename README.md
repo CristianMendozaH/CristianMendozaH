@@ -60,6 +60,8 @@ I am a third year engineering student, I work with C++, C# and Java languages.
   <b>Softwares I'm Familiar with</b><br><br>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-%234D3215%20?style=for-the-badge&logo=adobeillustrator&logoColor=%23EF8D25%20" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
