@@ -54,7 +54,9 @@ I am a third year engineering student, I work with C++, C# and Java languages.
 </p>
 
 
-
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
 
 
 <div>
