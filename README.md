@@ -65,8 +65,12 @@ Code-Savvy Student with a Desire to Learn and Grow
   </kbd>
 </p>
 
+
+</p>
+<h2 align="center">Softwares I'm Familiar with</h2>
+<p align="center">
+<br>
 <p align='center'>
-  <b>Softwares I'm Familiar with</b><br><br>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-%234D3215%20?style=for-the-badge&logo=adobeillustrator&logoColor=%23EF8D25%20" />
