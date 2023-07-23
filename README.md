@@ -57,7 +57,7 @@ I am a third year engineering student, I work with C++, C# and Java languages.
 </p>
 
 <p align='center'>
-  <b>Softwares I'm Familiar with :</b><br><br>
+  <b>Softwares I'm Familiar with</b><br><br>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
