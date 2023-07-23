@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/CristianMendozaH/CristianMendozaH">
   
-<img height="180em" src="https://github.com/CristianMendozaH"><img src="https://github-readme-stats.vercel.app/api?username=CristianMendozaH&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats" alt="CristianMendozaH :: Profile Stats"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianMendozaH&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark"/> 
 
 <img height="180em" src="https://github.com/CristianMendozaH"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianMendozaH&theme=tokyonight&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe" alt="CristianMendozaH :: Top Langs"/> 
 
