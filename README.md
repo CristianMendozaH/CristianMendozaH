@@ -7,6 +7,12 @@
 I am a third year engineering student, I work with C++, C# and Java languages.
 </p>
 
+- 👨🏽‍💻 I am currently studying at the university and I am going for my third year in the systems engineering career.
+- 🌱 I am currently learning about database in Oracle.
+- 🤔 My interest lies in Back-End Web Development, Data Science, Machine Learning, Deep Learning.
+- 💬 Ask me about anything from [cristian8mendoza8@gmail.com](cristian8mendoza8@gmail.com), I love to answer!
+- 🌐 You can see my personal website through [here](https://proyecto0cd.netlify.app/)
+
 
  
 <p style="display: inline-block;" align="center">
@@ -34,9 +40,8 @@ I am a third year engineering student, I work with C++, C# and Java languages.
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />  
+   
   </kbd>
   <br>
   <br>
@@ -52,9 +57,13 @@ I am a third year engineering student, I work with C++, C# and Java languages.
 </p>
 
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+
+
+
 </p>
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+<br>
 
 
 <div>
