@@ -3,13 +3,10 @@
 <h1 align="center">Hi there 👋 I am <a href="https://proyecto0cd.netlify.app/">Cristian_Mendoza</a></h1>
 </div>
 
+## 🌟 About Me:
+A systems engineer with a passion for learning about languages as well as working with I really enjoy tackling complex challenges and giving concrete solutions and on my journey I am learning more.
 
 
-
-<p align="center">
-I am a third year engineering student, I work with C++, C# and Java languages.
-Code-Savvy Student with a Desire to Learn and Grow
-</p>
 
 - 👨🏽‍💻 I am currently studying at the university and I am going for my third year in the systems engineering career.
 - 🌱 I am currently learning about database in Oracle.
@@ -19,7 +16,7 @@ Code-Savvy Student with a Desire to Learn and Grow
 
 
 </p>
-<h2 align="center">Skills</h2>
+<h2 align="center">Programming languages</h2>
 <p align="center">
 <br>
 
