@@ -3,8 +3,12 @@
 <h1 align="center">Hi there 👋 I am <a href="https://proyecto0cd.netlify.app/">Cristian_Mendoza</a></h1>
 </div>
 
+
+
+
 <p align="center">
 I am a third year engineering student, I work with C++, C# and Java languages.
+Code-Savvy Student with a Desire to Learn and Grow
 </p>
 
 - 👨🏽‍💻 I am currently studying at the university and I am going for my third year in the systems engineering career.
