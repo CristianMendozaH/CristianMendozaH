@@ -33,7 +33,7 @@ A systems engineer with a passion for learning about languages as well as workin
    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
   </kbd>
 
-<kbd>
+
     
   <kbd>
     <kbd>Database</kbd>
