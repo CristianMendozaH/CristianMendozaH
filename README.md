@@ -4,7 +4,7 @@
 </div>
 
 ## 🌟 About Me:
-A systems engineer with a passion for learning about languages as well as working with I really enjoy tackling complex challenges and giving concrete solutions and on my journey I am learning more.
+I am a Systems Engineering student with a passion for learning new programming languages. I enjoy tackling complex challenges and finding concrete solutions, continuously growing and expanding my skills along the way.
 
 
 
