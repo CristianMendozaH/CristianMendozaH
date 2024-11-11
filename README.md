@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.imgur.com/cEcNHXS.jpg">
-<h1 align="center">Hi there 👋 I am <a href="https://proyecto0cd.netlify.app/">Cristian_Mendoza</a></h1>
+<h1 align="center">¡Hola! 👋 Soy<a href="https://proyecto0cd.netlify.app/">Cristian_Mendoza</a></h1>
 </div>
 
 ## 🌟 Sobre Mí:
@@ -16,7 +16,7 @@ Puedes ver mis proyectos y conocer más sobre mí en mi sitio web personal
 
 
 </p>
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">Mis estadísticas de Github</h2>
 <p align="center">
 <br>
 
