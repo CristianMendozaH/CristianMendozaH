@@ -8,9 +8,9 @@ Soy estudiante de Ingeniería en Sistemas con una gran pasión por aprender nuev
 
 
 
-🎓 Soy estudiante de tercer año en Ingeniería en Sistemas en la Universidad Mariano Gálvez
-👀 Me apasiona la programación, el desarrollo Back-End y Front-End, la Ciencia de Datos y el Aprendizaje Automático
-🌱 Actualmente estoy profundizando en bases de datos con Oracle, y aprendiendo tecnologías tanto de Back-End como de Front-End para proyectos web
+-🎓 Soy estudiante de tercer año en Ingeniería en Sistemas en la Universidad Mariano Gálvez
+-👀 Me apasiona la programación, el desarrollo Back-End y Front-End, la Ciencia de Datos y el Aprendizaje Automático
+-🌱 Actualmente estoy profundizando en bases de datos con Oracle, y aprendiendo tecnologías tanto de Back-End como de Front-End para proyectos web
 
 Puedes ver mis proyectos y conocer más sobre mí en mi sitio web personal
 
