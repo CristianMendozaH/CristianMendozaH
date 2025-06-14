@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.imgur.com/cEcNHXS.jpg">
-<h1 align="center">¡Hola! 👋 Soy >Cristian_Mendoza</a></h1>
+<h1 align="center">¡Hola! 👋 Soy Cristian_Mendoza</a></h1>
 </div>
 
 Hola, soy Cristian Mendoza 👨‍💻
