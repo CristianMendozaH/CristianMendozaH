@@ -1,5 +1,9 @@
 <div align="center">
 <img src="https://i.imgur.com/cEcNHXS.jpg">
 </div>
-Hola, soy Cristian Mendoza 👨‍💻  
-Apasionado por la tecnología y la innovación, con experiencia en desarrollo de soluciones digitales, gestión de sistemas y mejora de procesos. Estudiante de Ingeniería en Sistemas, comprometido con aplicar el conocimiento para generar impacto positivo en organizaciones educativas y sociales.
+
+# 👋 Hola, soy Cristian Mendoza
+
+Estudiante de Ingeniería en Sistemas apasionado por la tecnología, el desarrollo de soluciones digitales y el impacto social. En este perfil encontrarás proyectos personales, académicos y de apoyo a organizaciones.
+
+📫 cristian8mendoza8@gmail.com | [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
